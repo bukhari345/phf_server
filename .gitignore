@@ -1,0 +1,8 @@
+# Ignore API key file
+ethereal-anvil-397323-e9d014420c2d.json
+
+
+
+# Node.js specific ignores
+node_modules/
+.env
